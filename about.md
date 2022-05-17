@@ -4,12 +4,19 @@ title: /about
 permalink: /about/
 ---
 
-# jekyll-theme-console
+# About me
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+Hello there. My name is Cláudio Gonçalves, a software engineer currently working for Uphold, as a Junior Backend Engineer.
+Personally, my interests are pretty much all over the place. I am curious about multiple topics and concepts. <br />
+So, professionally, you could expect me to be enthusiastic about cryptocurrencies and code organization principles. Scaling, mainting and creating software and team are the topics that I am most interested about. How can you make the difference in a company is another. <br />
+On the other hand, regarding my free time I usually play Magic: The Gathering and chess. In spike of liking to compete in each of this games, I am usually not a great player. Althought sometimes you can find me playing in an LGS in Braga. 
 
-## What is jekyll?
+# Social Networks
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+- [Github](https://github.com/cfsgoncalves)
+- [Twitter](https://twitter.com/themegalovanic)
+- [Email](claudiogilipesilvagoncalves@gmail.com)
+
+# Resume
+
+If you want to download my resume, you can find [here]({{ site.url }}/download/resume-claudio.pdf).

@@ -1,16 +1,18 @@
-title: 'b2a3e8.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/jekyll-theme-console-demo-dark"
+title: "Allocated Resources"
+description: ""
+baseurl: "/"
 
 header_pages:
   - index.md
-  - peter.md
+  - support.md
   - about.md
-  - contact.md
+
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
 
 # Build settings
 markdown: kramdown

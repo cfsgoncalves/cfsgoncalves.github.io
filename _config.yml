@@ -1,6 +1,8 @@
 title: "Allocated Resources"
 description: ""
-baseurl: "/"
+domain: cfsgoncalves.github.io      
+url: https://cfsgoncalves.github.io 
+baseurl: ""
 
 header_pages:
   - index.md
@@ -8,11 +10,10 @@ header_pages:
   - about.md
 
 style: dark
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
